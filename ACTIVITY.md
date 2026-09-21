@@ -207,3 +207,11 @@
 ## 2026-09-21T16:03:12Z — pull_request_target by lingadevaru-hp
 - PR #30: Fix: harden proxy mirror against source leaks (merged=true)
 
+## 2026-09-21T21:33:02+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #30 from lingadevaru-hp/fix/proxy-guard-no-source (772252e)
+  - Fix: harden proxy mirror against source leaks (fe0e71e)
+- Files touched (names only):
+  - .github/workflows/mirror-activity.yml
+  - AGENTS.md
+
