@@ -201,3 +201,6 @@
 ## 2026-09-21T15:44:35Z — pull_request_target by lingadevaru-hp
 - PR #29: Feat: gate re-verification every 5 minutes with pending resend (merged=true)
 
+## 2026-09-21T16:02:53Z — pull_request_target by lingadevaru-hp
+- PR #30: Fix: harden proxy mirror against source leaks (merged=false)
+
