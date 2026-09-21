@@ -204,3 +204,6 @@
 ## 2026-09-21T16:02:53Z — pull_request_target by lingadevaru-hp
 - PR #30: Fix: harden proxy mirror against source leaks (merged=false)
 
+## 2026-09-21T16:03:12Z — pull_request_target by lingadevaru-hp
+- PR #30: Fix: harden proxy mirror against source leaks (merged=true)
+
