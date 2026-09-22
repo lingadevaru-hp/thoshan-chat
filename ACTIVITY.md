@@ -271,3 +271,6 @@
   - README.md
   - src/worker.ts
 
+## 2026-09-22T04:05:35Z — pull_request_target by lingadevaru-hp
+- PR #34: Feat: restore mobile nav icons, collapsible drawer sections (merged=true)
+
