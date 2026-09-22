@@ -247,3 +247,12 @@
 ## 2026-09-22T03:52:22Z — pull_request_target by lingadevaru-hp
 - PR #33: Feat: Tokyo Night default, drawer site controls, mobile declutter (merged=false)
 
+## 2026-09-22T09:22:13+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #33 from lingadevaru-hp/feat/tokyo-default-mobile-drawer (a123a33)
+  - Feat: Tokyo Night default, drawer site controls, mobile declutter (2c9cf2b)
+- Files touched (names only):
+  - CHANGELOG.md
+  - README.md
+  - src/worker.ts
+
