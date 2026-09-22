@@ -218,3 +218,11 @@
 ## 2026-09-22T03:18:59Z — pull_request_target by lingadevaru-hp
 - PR #31: Feat: add home and portfolio-language switcher to chat header (merged=false)
 
+## 2026-09-22T08:48:57+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #31 from lingadevaru-hp/feat/header-home-lang-switch (a651066)
+  - Feat: add home and portfolio-language switcher to chat header (021332a)
+- Files touched (names only):
+  - CHANGELOG.md
+  - src/worker.ts
+
