@@ -229,3 +229,6 @@
 ## 2026-09-22T03:19:07Z — pull_request_target by lingadevaru-hp
 - PR #31: Feat: add home and portfolio-language switcher to chat header (merged=true)
 
+## 2026-09-22T03:37:55Z — pull_request_target by lingadevaru-hp
+- PR #32: Feat: port all 22 main-site themes to chat with palette switcher (merged=false)
+
