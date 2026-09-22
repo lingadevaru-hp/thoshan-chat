@@ -300,3 +300,6 @@
   - CHANGELOG.md
   - src/worker.ts
 
+## 2026-09-22T04:25:06Z — pull_request_target by lingadevaru-hp
+- PR #36: Feat: list Tokyo Night first with Default badge (merged=true)
+
