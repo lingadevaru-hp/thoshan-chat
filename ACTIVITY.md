@@ -244,3 +244,6 @@
 ## 2026-09-22T03:38:05Z — pull_request_target by lingadevaru-hp
 - PR #32: Feat: port all 22 main-site themes to chat with palette switcher (merged=true)
 
+## 2026-09-22T03:52:22Z — pull_request_target by lingadevaru-hp
+- PR #33: Feat: Tokyo Night default, drawer site controls, mobile declutter (merged=false)
+
