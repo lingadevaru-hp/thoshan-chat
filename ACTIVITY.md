@@ -292,3 +292,11 @@
 ## 2026-09-22T04:25:03Z — pull_request_target by lingadevaru-hp
 - PR #36: Feat: list Tokyo Night first with Default badge (merged=false)
 
+## 2026-09-22T09:54:56+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #36 from lingadevaru-hp/feat/tokyo-first-default (b7d84d9)
+  - Feat: list Tokyo Night first with Default badge (bf5d3b3)
+- Files touched (names only):
+  - CHANGELOG.md
+  - src/worker.ts
+
