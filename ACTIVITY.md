@@ -226,3 +226,6 @@
   - CHANGELOG.md
   - src/worker.ts
 
+## 2026-09-22T03:19:07Z — pull_request_target by lingadevaru-hp
+- PR #31: Feat: add home and portfolio-language switcher to chat header (merged=true)
+
