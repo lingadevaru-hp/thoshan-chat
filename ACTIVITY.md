@@ -262,3 +262,12 @@
 ## 2026-09-22T04:05:31Z — pull_request_target by lingadevaru-hp
 - PR #34: Feat: restore mobile nav icons, collapsible drawer sections (merged=false)
 
+## 2026-09-22T09:35:21+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #34 from lingadevaru-hp/feat/mobile-nav-collapsible-drawer (c940840)
+  - Feat: restore mobile nav icons, collapsible drawer sections (48f9a1c)
+- Files touched (names only):
+  - CHANGELOG.md
+  - README.md
+  - src/worker.ts
+
