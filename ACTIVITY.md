@@ -256,3 +256,6 @@
   - README.md
   - src/worker.ts
 
+## 2026-09-22T03:52:23Z — pull_request_target by lingadevaru-hp
+- PR #33: Feat: Tokyo Night default, drawer site controls, mobile declutter (merged=true)
+
