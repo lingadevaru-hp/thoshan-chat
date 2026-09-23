@@ -306,3 +306,6 @@
 ## 2026-09-23T03:57:02Z — pull_request_target by lingadevaru-hp
 - PR #37: Feat: main-site panel embedding support (merged=true)
 
+## 2026-09-23T03:57:05Z — pull_request_target by lingadevaru-hp
+- PR #37: Feat: main-site panel embedding support (merged=false)
+
