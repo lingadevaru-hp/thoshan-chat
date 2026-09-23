@@ -341,3 +341,6 @@
 - Files touched (names only):
   - src/worker.ts
 
+## 2026-09-23T04:37:24Z — pull_request_target by lingadevaru-hp
+- PR #39: Feat: page-aware chip in embed mode (merged=true)
+
