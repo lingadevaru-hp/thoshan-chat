@@ -344,3 +344,6 @@
 ## 2026-09-23T04:37:24Z — pull_request_target by lingadevaru-hp
 - PR #39: Feat: page-aware chip in embed mode (merged=true)
 
+## 2026-09-23T06:52:56Z — pull_request_target by lingadevaru-hp
+- PR #40: Feat: public proxy scaffold mirroring wiki-platform pattern (merged=false)
+
