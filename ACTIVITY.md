@@ -309,3 +309,12 @@
 ## 2026-09-23T03:57:05Z — pull_request_target by lingadevaru-hp
 - PR #37: Feat: main-site panel embedding support (merged=false)
 
+## 2026-09-23T09:26:53+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #37 from lingadevaru-hp/feat/panel-embedding (28e38b6)
+  - Feat: main-site panel embedding support (123d256)
+- Files touched (names only):
+  - CHANGELOG.md
+  - README.md
+  - src/worker.ts
+
