@@ -355,3 +355,6 @@
   - proxy-scaffold/config/README.md
   - proxy-scaffold/releases/README.md
 
+## 2026-09-23T06:56:03Z — pull_request_target by lingadevaru-hp
+- PR #41: Fix: proxy scaffold passes its own scrub gates (merged=true)
+
