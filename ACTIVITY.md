@@ -331,3 +331,6 @@
 ## 2026-09-23T04:31:09Z — pull_request_target by lingadevaru-hp
 - PR #38: Fix: no-store on chat HTML (stale DENY must never stick at edge) (merged=true)
 
+## 2026-09-23T04:37:21Z — pull_request_target by lingadevaru-hp
+- PR #39: Feat: page-aware chip in embed mode (merged=false)
+
