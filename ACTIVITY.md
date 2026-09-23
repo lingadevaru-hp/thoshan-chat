@@ -347,3 +347,11 @@
 ## 2026-09-23T06:52:56Z — pull_request_target by lingadevaru-hp
 - PR #40: Feat: public proxy scaffold mirroring wiki-platform pattern (merged=false)
 
+## 2026-09-23T12:25:19+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #41 from lingadevaru-hp/fix/proxy-scrub (54e8553)
+  - Fix: proxy scaffold passes its own scrub gates (f0f810a)
+- Files touched (names only):
+  - proxy-scaffold/config/README.md
+  - proxy-scaffold/releases/README.md
+
