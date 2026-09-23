@@ -358,3 +358,6 @@
 ## 2026-09-23T06:56:03Z — pull_request_target by lingadevaru-hp
 - PR #41: Fix: proxy scaffold passes its own scrub gates (merged=true)
 
+## 2026-09-23T10:27:10Z — pull_request_target by lingadevaru-hp
+- PR #42: Feat: full search indexability + keyword targeting (merged=false)
+
