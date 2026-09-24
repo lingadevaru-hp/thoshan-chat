@@ -371,3 +371,6 @@
 ## 2026-09-23T10:27:16Z — pull_request_target by lingadevaru-hp
 - PR #42: Feat: full search indexability + keyword targeting (merged=true)
 
+## 2026-09-24T09:34:57Z — pull_request_target by lingadevaru-hp
+- PR #43: Feat: migrate chatbot to Catalyst Slate + QuickML RAG (merged=false)
+
