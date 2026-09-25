@@ -406,3 +406,6 @@
 ## 2026-09-24T09:49:19Z — pull_request_target by lingadevaru-hp
 - PR #44: Chore: remove obsolete resume PDF and trainer brief (merged=true)
 
+## 2026-09-25T02:50:40Z — pull_request_target by lingadevaru-hp
+- PR #45: Feat: switch chat-api to Agentic RAG endpoint (merged=false)
+
