@@ -409,3 +409,6 @@
 ## 2026-09-25T02:50:40Z — pull_request_target by lingadevaru-hp
 - PR #45: Feat: switch chat-api to Agentic RAG endpoint (merged=false)
 
+## 2026-09-25T02:50:46Z — pull_request_target by lingadevaru-hp
+- PR #45: Feat: switch chat-api to Agentic RAG endpoint (merged=true)
+
