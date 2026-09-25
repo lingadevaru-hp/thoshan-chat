@@ -511,3 +511,12 @@
 ## 2026-09-25T16:39:59Z — pull_request_target by lingadevaru-hp
 - PR #52: Fix: voice CORS on custom domain, voice always on, smart tick (merged=true)
 
+## 2026-09-25T22:09:49+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #52 from lingadevaru-hp/fix/voice-cors-and-always-on (265c0a1)
+  - Fix: voice CORS on custom domain, voice always on, smart tick (95af4ab)
+- Files touched (names only):
+  - catalyst-pilot/functions/stt/index.js
+  - catalyst-pilot/functions/tts/index.js
+  - catalyst-pilot/thoshan-chat-ui/index.html
+
