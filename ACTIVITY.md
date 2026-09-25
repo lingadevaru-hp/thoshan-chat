@@ -492,3 +492,6 @@
   - catalyst-pilot/functions/tts/package-lock.json
   - catalyst-pilot/functions/tts/package.json
 
+## 2026-09-25T16:24:16Z — pull_request_target by lingadevaru-hp
+- PR #51: Fix: voice tick-submit, per-reply Listen, voice off by default (merged=false)
+
