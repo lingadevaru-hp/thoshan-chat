@@ -536,3 +536,10 @@
 ## 2026-09-25T17:25:24Z — pull_request_target by lingadevaru-hp
 - PR #54: Fix: voice failures name their cause (merged=false)
 
+## 2026-09-25T22:55:17+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #54 from lingadevaru-hp/fix/voice-error-messages (4ffd487)
+  - Fix: voice failures name their cause (unconfigured/busy/limit) (f7d07b9)
+- Files touched (names only):
+  - catalyst-pilot/thoshan-chat-ui/index.html
+
