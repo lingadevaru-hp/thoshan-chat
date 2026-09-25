@@ -412,3 +412,12 @@
 ## 2026-09-25T02:50:46Z — pull_request_target by lingadevaru-hp
 - PR #45: Feat: switch chat-api to Agentic RAG endpoint (merged=true)
 
+## 2026-09-25T08:20:37+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #45 from lingadevaru-hp/feat/agentic-rag-endpoint-refresh (234485f)
+  - Feat: switch chat-api to Agentic RAG endpoint (d5e81c3)
+- Files touched (names only):
+  - catalyst-pilot/functions/chat-api/catalyst-config.json
+  - catalyst-pilot/functions/chat-api/index.js
+  - catalyst-pilot/knowledge/profile.txt
+
