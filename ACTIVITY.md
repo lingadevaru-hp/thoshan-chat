@@ -543,3 +543,6 @@
 - Files touched (names only):
   - catalyst-pilot/thoshan-chat-ui/index.html
 
+## 2026-09-25T17:25:27Z — pull_request_target by lingadevaru-hp
+- PR #54: Fix: voice failures name their cause (merged=true)
+
