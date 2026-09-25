@@ -533,3 +533,6 @@
 ## 2026-09-25T17:03:46Z — pull_request_target by lingadevaru-hp
 - PR #53: Fix: voice UI can never freeze (merged=true)
 
+## 2026-09-25T17:25:24Z — pull_request_target by lingadevaru-hp
+- PR #54: Fix: voice failures name their cause (merged=false)
+
