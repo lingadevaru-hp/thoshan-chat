@@ -1,6 +1,8 @@
 # Config surface (names only — never values)
 
-Bindings referenced by `wrangler.toml` in the private core:
+Live config lives in the private core's `catalyst-pilot/catalyst.json`
+(Slate app + `chat-api` function). The rollback Worker's
+`wrangler.toml` bindings (names only — never values):
 
 - `VOICE_AGENT` — Durable Object (SQLite) for live voice turns
 - `CHAT_SEARCH` — AI Search instance over the site index
@@ -8,6 +10,7 @@ Bindings referenced by `wrangler.toml` in the private core:
 - Human-gate secrets — held as environment config only, never committed,
   never mirrored (see the private core's secret handling)
 
-Routes: `chat.lingadevaru.in` as a Worker custom domain. Names above
+Live route `chat.lingadevaru.in` is served by Catalyst; the Worker custom
+domain below belongs to the rollback copy. Names above
 (except redacted secrets) are the stable surface; values live in the
 dashboard and the private core.

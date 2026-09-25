@@ -16,9 +16,11 @@ still be followed openly:
 
 ## What it is
 
-A single-file Cloudflare Worker serving a full chat experience: themed
-single-page UI, voice input with server transcription fallback, read-aloud
-replies, persistent conversation history, and a slide-over embed mode so the
+Live on Zoho Catalyst Slate: chat UI plus a `chat-api` function with a
+QuickML RAG brain. The private core also keeps a single-file Cloudflare
+Worker as instant rollback: themed single-page UI, voice input with
+server transcription fallback, read-aloud replies, persistent
+conversation history, and a slide-over embed mode so the
 main portfolio site can host the chat in a side panel (`?embed=1`).
 
 ## Structure (sketch — no source)
