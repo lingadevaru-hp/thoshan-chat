@@ -479,3 +479,6 @@
 ## 2026-09-25T16:08:46Z — pull_request_target by lingadevaru-hp
 - PR #50: Fix: add @zcatalyst/cache dep to stt/tts functions (merged=false)
 
+## 2026-09-25T16:08:49Z — pull_request_target by lingadevaru-hp
+- PR #50: Fix: add @zcatalyst/cache dep to stt/tts functions (merged=true)
+
