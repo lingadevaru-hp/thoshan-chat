@@ -441,3 +441,12 @@
 ## 2026-09-25T15:40:13Z — pull_request_target by lingadevaru-hp
 - PR #47: Feat: prefer Groq whisper-large-v3-turbo for server STT (merged=true)
 
+## 2026-09-25T21:10:01+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #47 from lingadevaru-hp/feat/groq-stt-preferred (c39afdb)
+  - Feat: prefer Groq whisper-large-v3-turbo for server STT (eb63a6a)
+- Files touched (names only):
+  - CHANGELOG.md
+  - README.md
+  - src/worker.ts
+
