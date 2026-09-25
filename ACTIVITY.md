@@ -435,3 +435,6 @@
   - catalyst-pilot/thoshan-chat-ui/index.html
   - catalyst-pilot/thoshan-chat-ui/thoshan-logo.png
 
+## 2026-09-25T15:39:50Z — pull_request_target by lingadevaru-hp
+- PR #47: Feat: prefer Groq whisper-large-v3-turbo for server STT (merged=false)
+
