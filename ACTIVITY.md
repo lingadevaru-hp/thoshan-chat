@@ -502,3 +502,6 @@
 - Files touched (names only):
   - catalyst-pilot/thoshan-chat-ui/index.html
 
+## 2026-09-25T16:24:19Z — pull_request_target by lingadevaru-hp
+- PR #51: Fix: voice tick-submit, per-reply Listen, voice off by default (merged=true)
+
