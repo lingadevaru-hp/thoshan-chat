@@ -438,3 +438,6 @@
 ## 2026-09-25T15:39:50Z — pull_request_target by lingadevaru-hp
 - PR #47: Feat: prefer Groq whisper-large-v3-turbo for server STT (merged=false)
 
+## 2026-09-25T15:40:13Z — pull_request_target by lingadevaru-hp
+- PR #47: Feat: prefer Groq whisper-large-v3-turbo for server STT (merged=true)
+
