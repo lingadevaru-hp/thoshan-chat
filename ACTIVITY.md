@@ -508,3 +508,6 @@
 ## 2026-09-25T16:39:56Z — pull_request_target by lingadevaru-hp
 - PR #52: Fix: voice CORS on custom domain, voice always on, smart tick (merged=false)
 
+## 2026-09-25T16:39:59Z — pull_request_target by lingadevaru-hp
+- PR #52: Fix: voice CORS on custom domain, voice always on, smart tick (merged=true)
+
