@@ -552,3 +552,6 @@
 - Files touched (names only):
   - catalyst-pilot/thoshan-chat-ui/index.html
 
+## 2026-09-26T03:18:37Z — pull_request_target by lingadevaru-hp
+- PR #55: Fix: main-site embed CORS + greeting fallback (merged=false)
+
