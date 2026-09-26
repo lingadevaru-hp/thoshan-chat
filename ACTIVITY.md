@@ -558,3 +558,12 @@
 ## 2026-09-26T03:18:55Z — pull_request_target by lingadevaru-hp
 - PR #55: Fix: main-site embed CORS + greeting fallback (merged=true)
 
+## 2026-09-26T08:48:47+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #55 from lingadevaru-hp/fix/embed-cors-greeting (3705c93)
+  - Fix: main-site embed CORS + greeting fallback (05ff8e0)
+- Files touched (names only):
+  - CHANGELOG.md
+  - README.md
+  - catalyst-pilot/functions/chat-api/index.js
+
