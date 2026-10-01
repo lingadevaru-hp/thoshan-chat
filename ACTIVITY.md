@@ -600,3 +600,6 @@
 ## 2026-10-01T05:24:32Z — pull_request_target by lingadevaru-hp
 - PR #60: Feat: stage 5 follow-up chips scroll-row + undo for clear chat (merged=true)
 
+## 2026-10-01T05:24:34Z — pull_request_target by lingadevaru-hp
+- PR #59: Feat: stage 4 Kannada font fallback in chat bubbles/composer (merged=true)
+
