@@ -606,3 +606,6 @@
 ## 2026-10-01T05:24:35Z — pull_request_target by lingadevaru-hp
 - PR #56: Feat: stage 1 quick wins — zoom, input attrs, 44/48px targets, press feedback (merged=true)
 
+## 2026-10-01T05:24:32Z — pull_request_target by lingadevaru-hp
+- PR #61: Perf: stage 6 content-visibility for history list rows (merged=true)
+
