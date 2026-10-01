@@ -576,3 +576,6 @@
 ## 2026-10-01T04:27:45Z — pull_request_target by lingadevaru-hp
 - PR #58: Feat: stage 3 settings drawer becomes bottom sheet on mobile (merged=false)
 
+## 2026-10-01T04:29:58Z — pull_request_target by lingadevaru-hp
+- PR #59: Feat: stage 4 Kannada font fallback in chat bubbles/composer (merged=false)
+
