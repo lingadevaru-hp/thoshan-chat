@@ -609,3 +609,22 @@
 ## 2026-10-01T05:24:32Z — pull_request_target by lingadevaru-hp
 - PR #61: Perf: stage 6 content-visibility for history list rows (merged=true)
 
+## 2026-10-01T10:54:21+05:30 — push by lingadevaru-hp
+- Commits pushed to main:
+  - Merge pull request #62 from lingadevaru-hp/upgrade/v10-integration (f958ffb)
+  - Feat: v10.10 chat upgrade — press, composer, chips, FAB count, stability (d6082d1)
+  - Merge branch 'feat/stage-6-perf-pass' into upgrade/v10-integration (bfbec75)
+  - Merge branch 'feat/stage-5-agentic' into upgrade/v10-integration (7844f6d)
+  - Merge stage-4: keep viewport/fallbacks, re-apply Noto Kannada stack (6f85859)
+  - Merge stage-3: drawer bottom-sheet + stage-1 targets + stage-2 fallbacks (c02d781)
+  - Merge stage-2: keep stage-1 targets, add 100vh fallbacks (40bdf89)
+  - Merge branch 'feat/stage-1-quick-wins' into upgrade/v10-integration (de5f351)
+  - Perf: stage 6 content-visibility for history list rows (830bc74)
+  - Feat: stage 5 follow-up chips scroll-row + undo for clear chat (188021c)
+  - Feat: stage 4 Kannada font fallback in chat bubbles/composer (db54597)
+  - Feat: stage 3 settings drawer becomes bottom sheet on mobile (7e0b8a5)
+  - Feat: stage 2 keyboard-aware composer via visualViewport (a84bfd4)
+  - Feat: stage 1 quick wins — zoom, input attrs, 44/48px targets, press feedback (dc41207)
+- Files touched (names only):
+  - src/worker.ts
+
