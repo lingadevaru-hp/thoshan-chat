@@ -591,3 +591,6 @@
 ## 2026-10-01T05:24:31Z — pull_request_target by lingadevaru-hp
 - PR #62: Feat: v10.10 chat upgrade — press, composer, chips, FAB count, stability (merged=true)
 
+## 2026-10-01T05:24:33Z — pull_request_target by lingadevaru-hp
+- PR #58: Feat: stage 3 settings drawer becomes bottom sheet on mobile (merged=true)
+
