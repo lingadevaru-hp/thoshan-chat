@@ -579,3 +579,6 @@
 ## 2026-10-01T04:29:58Z — pull_request_target by lingadevaru-hp
 - PR #59: Feat: stage 4 Kannada font fallback in chat bubbles/composer (merged=false)
 
+## 2026-10-01T04:30:57Z — pull_request_target by lingadevaru-hp
+- PR #60: Feat: stage 5 follow-up chips scroll-row + undo for clear chat (merged=false)
+
