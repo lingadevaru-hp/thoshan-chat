@@ -570,3 +570,6 @@
 ## 2026-10-01T04:22:16Z — pull_request_target by lingadevaru-hp
 - PR #56: Feat: stage 1 quick wins — zoom, input attrs, 44/48px targets, press feedback (merged=false)
 
+## 2026-10-01T04:24:28Z — pull_request_target by lingadevaru-hp
+- PR #57: Feat: stage 2 keyboard-aware composer via visualViewport (merged=false)
+
