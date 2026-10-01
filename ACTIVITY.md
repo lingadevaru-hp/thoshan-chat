@@ -594,3 +594,6 @@
 ## 2026-10-01T05:24:33Z — pull_request_target by lingadevaru-hp
 - PR #58: Feat: stage 3 settings drawer becomes bottom sheet on mobile (merged=true)
 
+## 2026-10-01T05:24:35Z — pull_request_target by lingadevaru-hp
+- PR #57: Feat: stage 2 keyboard-aware composer via visualViewport (merged=true)
+
