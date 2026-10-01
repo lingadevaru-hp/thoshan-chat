@@ -573,3 +573,6 @@
 ## 2026-10-01T04:24:28Z — pull_request_target by lingadevaru-hp
 - PR #57: Feat: stage 2 keyboard-aware composer via visualViewport (merged=false)
 
+## 2026-10-01T04:27:45Z — pull_request_target by lingadevaru-hp
+- PR #58: Feat: stage 3 settings drawer becomes bottom sheet on mobile (merged=false)
+
