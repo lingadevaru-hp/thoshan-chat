@@ -582,3 +582,6 @@
 ## 2026-10-01T04:30:57Z — pull_request_target by lingadevaru-hp
 - PR #60: Feat: stage 5 follow-up chips scroll-row + undo for clear chat (merged=false)
 
+## 2026-10-01T04:31:51Z — pull_request_target by lingadevaru-hp
+- PR #61: Perf: stage 6 content-visibility for history list rows (merged=false)
+
